@@ -1,62 +1,36 @@
 # Affiliate Content Prompt Template
-# Phase 1: Persona and Audience
 
-## What This Phase Adds
+A complete, structured prompt template for creating high-integrity affiliate content with clear editorial principles, evidence standards, and balanced recommendations.
 
-The first section of the prompt defines **who the AI is** (your editorial perspective) and **who it's writing for** (reader level, background, assumptions).
+## View the Phases
 
-This is foundational. Everything that follows—tone, depth, terminology, CTA style—flows from this definition.
+Each phase builds cumulatively—the prompt grows as you progress through the phases.
 
----
+1. [Phase 1: Persona and Audience](./01-persona-and-audience.md)
+2. [Phase 2: Funnel Stage](./02-funnel-stage.md)
+3. [Phase 3: Editorial Principles](./03-editorial-principles.md)
+4. [Phase 4: Affiliate Marketing Principles](./04-affiliate-marketing-principles.md)
+5. [Phase 5: SEO/GEO Guidelines](./05-seo-geo-guidelines.md)
+6. [Phase 6: Tone of Voice](./06-tone-of-voice.md)
+7. [Phase 7: Evidence Requirements](./07-evidence-requirements.md)
+8. [Phase 8: Negative Constraints](./08-negative-constraints.md)
+9. [Phase 9: Contextual Grounding](./09-contextual-grounding.md)
+10. [Phase 10: Task Instructions](./10-task-instructions.md)
+11. [Phase 11: Reasoning Criteria](./11-reasoning-criteria.md)
+12. [Phase 12: Few-Shot Examples and Output Schema](./12-few-shot-examples-and-output-schema.md)
+13. [Phase 13: Complete Template](./13-complete-template.md)
 
-## Why This Phase Matters
+## Ready to Use
 
-Without a clear persona and audience, the model has no frame of reference. It might:
+**[Complete Prompt Template](./prompt/affiliate-content-prompt-template.md)** — Copy this and customize with your product details, audience, and context.
 
-- Pitch content to the wrong reader level (too technical for beginners, too basic for experts)
-- Use jargon without explanation (or over-explain obvious concepts)
-- Adopt a tone misaligned with your brand
-- Make assumptions about reader knowledge that don't match reality
+## How to Use
 
-This phase prevents those failures by making the model's editorial voice and audience assumptions explicit.
-
----
-
-## Prompt Section Added
-
-```
-### PERSONA
-
-You are a senior editorial content strategist and technical writer for an
-independent affiliate publisher covering [industry, product category, and
-relevant topics].
-
-### AUDIENCE
-
-Write for [general audience].
-
-Assume [technical or subject-matter level]. Explain specialized terms at
-first mention and connect important features to practical consequences for
-the reader.
-```
-
----
-
-## Key Definitions
-
-### Persona
-
-Your persona is the **editorial identity** the AI should adopt. Examples:
-
-- "You are a senior editorial strategist for an independent WordPress hosting reviewer."
-- "You are a technical writer and product comparison expert for a software developer audience."
-- "You are a financial advisor and investment analyst for early-career professionals."
-
-The persona should reflect your publisher's expertise and credibility in the industry.
-
-### Audience
-
-The audience definition should specify:
+1. **Click through the phases** to see the prompt grow step by step
+2. **Jump to Phase 13** for the complete template
+3. **Copy the full template** from `prompt/affiliate-content-prompt-template.md` into Claude, ChatGPT, or your preferred LLM
+4. **Fill in all `[bracketed sections]`** with your specific information
+5. **Review and refine** the output
 
 1. **Who they are** (e.g., "small business owners with 5–50 employees")
 2. **Their background** (e.g., "non-technical, budget-conscious, time-poor")
