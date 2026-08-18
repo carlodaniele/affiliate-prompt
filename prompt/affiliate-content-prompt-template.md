@@ -1,5 +1,8 @@
 # AFFILIATE CONTENT PROMPT TEMPLATE
 
+```
+# AFFILIATE CONTENT PROMPT TEMPLATE
+
 ## SYSTEM INSTRUCTIONS
 
 ### PERSONA
@@ -369,3 +372,5 @@ For detailed guidance on each section, refer to the phase-by-phase guide in the 
 ---
 
 **Template Version:** 1.0 | **Last Updated:** August 2026
+
+```
