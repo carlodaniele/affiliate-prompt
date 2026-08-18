@@ -1,4 +1,4 @@
-# AFFILIATE CONTENT PROMPT TEMPLATE
+## Affiliate content prompt tempate
 
 ```
 ## SYSTEM INSTRUCTIONS
